@@ -1,0 +1,5360 @@
+{
+	"juego": {
+		"ancho": 100,
+		"alto": 47,
+		"posiciones": [
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 0,
+				"x": 0
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 0,
+				"x": 5
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 0,
+				"x": 6
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 0,
+				"x": 17
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 0,
+				"x": 18
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 0,
+				"x": 19
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 0,
+				"x": 20
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 0,
+				"x": 24
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 0,
+				"x": 39
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 0,
+				"x": 56
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 0,
+				"x": 72
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 0,
+				"x": 88
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 0,
+				"x": 98
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 0,
+				"x": 99
+			},
+			{
+				"piece": "S",
+				"side": "ROJO",
+				"y": 1,
+				"x": 4
+			},
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 1,
+        "x": 7
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 1,
+        "x": 8
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 1,
+        "x": 9
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 1,
+        "x": 10
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 1,
+        "x": 11
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 12
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 1,
+        "x": 13
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 1,
+        "x": 14
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 1,
+        "x": 15
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 16
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 21
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 1,
+				"x": 23
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 1,
+				"x": 24
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 31
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 1,
+				"x": 38
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 39
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 1,
+        "x": 42
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 1,
+        "x": 49
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 1,
+        "x": 52
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 1,
+				"x": 55
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 62
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 1,
+				"x": 71
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 72
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 1,
+				"x": 87
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 1,
+        "x": 89
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 1,
+				"x": 97
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 1,
+        "x": 99
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 2,
+        "x": 4
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 7
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 16
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 21
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 2,
+				"x": 22
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 31
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 2,
+				"x": 37
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 39
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 2,
+        "x": 42
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 2,
+        "x": 49
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 2,
+        "x": 52
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 2,
+				"x": 54
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 62
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 2,
+				"x": 70
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 72
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 2,
+				"x": 86
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 89
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 2,
+				"x": 96
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 2,
+        "x": 99
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 4
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 7
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 16
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 21
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 31
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 3,
+				"x": 36
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 39
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 3,
+        "x": 42
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 3,
+        "x": 49
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 3,
+        "x": 52
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 3,
+				"x": 53
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 62
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 3,
+				"x": 69
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 72
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 3,
+				"x": 85
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 89
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 3,
+				"x": 95
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 3,
+        "x": 99
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 4,
+				"x": 0
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 4
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 7
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 16
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 4,
+				"x": 20
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 21
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 31
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 4,
+				"x": 35
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 39
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 4,
+        "x": 42
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 4,
+        "x": 49
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 4,
+        "x": 52
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 62
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 4,
+				"x": 68
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 72
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 4,
+				"x": 84
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 89
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 4,
+				"x": 96
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 4,
+        "x": 99
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 5,
+        "x": 4
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 5,
+        "x": 7
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 5,
+        "x": 16
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 5,
+				"x": 19
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 5,
+        "x": 21
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 5,
+        "x": 31
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 5,
+				"x": 34
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 5,
+        "x": 39
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 5,
+        "x": 42
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 5,
+        "x": 49
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 5,
+				"x": 51
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 5,
+        "x": 52
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 5,
+        "x": 62
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 5,
+				"x": 67
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 5,
+        "x": 72
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 5,
+				"x": 83
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 5,
+        "x": 89
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 5,
+				"x": 95
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 5,
+        "x": 99
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 6,
+        "x": 4
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 6,
+        "x": 7
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 6,
+        "x": 16
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 6,
+				"x": 18
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 6,
+        "x": 21
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 6,
+        "x": 31
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 6,
+				"x": 33
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 6,
+        "x": 39
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 6,
+        "x": 42
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 6,
+        "x": 49
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 6,
+				"x": 50
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 6,
+        "x": 52
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 6,
+        "x": 62
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 6,
+				"x": 66
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 6,
+        "x": 72
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 6,
+				"x": 82
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 6,
+        "x": 89
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 6,
+				"x": 94
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 6,
+        "x": 99
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 4
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 7
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 7,
+        "x": 16
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 7,
+				"x": 17
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 21
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 31
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 7,
+				"x": 32
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 39
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 7,
+        "x": 42
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 7,
+        "x": 49
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 7,
+        "x": 52
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 62
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 7,
+				"x": 65
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 72
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 7,
+				"x": 81
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 89
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 7,
+				"x": 91
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 7,
+				"x": 93
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 7,
+        "x": 99
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 4
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 7
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 8
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 9
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 10
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 8,
+        "x": 11
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 8,
+        "x": 12
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 13
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 8,
+        "x": 14
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 15
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 8,
+        "x": 16
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 21
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 31
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 39
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 42
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 8,
+				"x": 48
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 49
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 52
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 62
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 8,
+				"x": 64
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 72
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 8,
+				"x": 80
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 8,
+        "x": 89
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 8,
+				"x": 92
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 8,
+        "x": 99
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 9,
+        "x": 4
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 9,
+				"x": 15
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 9,
+        "x": 16
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 9,
+        "x": 21
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 9,
+				"x": 30
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 9,
+        "x": 31
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 9,
+        "x": 39
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 9,
+        "x": 42
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 9,
+				"x": 47
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 9,
+        "x": 49
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 9,
+        "x": 52
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 9,
+        "x": 62
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 9,
+				"x": 63
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 9,
+        "x": 72
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 9,
+        "x": 89
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 9,
+				"x": 93
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 9,
+        "x": 99
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 10,
+				"x": 0
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 10,
+        "x": 4
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 10,
+				"x": 14
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 10,
+        "x": 16
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 10,
+        "x": 21
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 10,
+				"x": 29
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 10,
+        "x": 31
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 10,
+        "x": 39
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 10,
+        "x": 42
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 10,
+				"x": 46
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 10,
+        "x": 52
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 10,
+        "x": 62
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 10,
+        "x": 72
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 10,
+        "x": 89
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 10,
+				"x": 92
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 10,
+        "x": 99
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 4
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 11,
+				"x": 13
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 16
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 11,
+        "x": 21
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 22
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 23
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 24
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 25
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 11,
+        "x": 26
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 27
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 28
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 31
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 32
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 33
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 34
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 35
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 11,
+        "x": 36
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 37
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 38
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 39
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 42
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 43
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 44
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 45
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 46
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 11,
+        "x": 47
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 11,
+        "x": 52
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 53
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 54
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 55
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 56
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 11,
+        "x": 57
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 11,
+				"x": 61
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 62
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 72
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 73
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 74
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 75
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 76
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 11,
+        "x": 77
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 11,
+        "x": 81
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 82
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 83
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 11,
+        "x": 84
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 11,
+        "x": 85
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 11,
+        "x": 86
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 87
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 11,
+        "x": 88
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 11,
+        "x": 89
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 11,
+				"x": 91
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 11,
+        "x": 99
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 12,
+        "x": 4
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 12,
+				"x": 12
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 12,
+        "x": 16
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 12,
+				"x": 27
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 12,
+        "x": 31
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 12,
+        "x": 39
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 12,
+        "x": 42
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 12,
+				"x": 44
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 12,
+				"x": 60
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 12,
+        "x": 62
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 12,
+				"x": 72
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 12,
+				"x": 89
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 12,
+				"x": 90
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 12,
+				"x": 98
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 13,
+        "x": 4
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 13,
+				"x": 11
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 13,
+        "x": 16
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 13,
+				"x": 26
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 13,
+				"x": 42
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 13,
+				"x": 43
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 13,
+				"x": 59
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 13,
+				"x": 96
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 13,
+				"x": 97
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 14,
+        "x": 4
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 14,
+				"x": 10
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 14,
+        "x": 16
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 14,
+				"x": 25
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 14,
+				"x": 41
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 14,
+				"x": 58
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 14,
+				"x": 62
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 14,
+				"x": 63
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 14,
+				"x": 64
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 14,
+				"x": 65
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 14,
+				"x": 66
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 14,
+				"x": 67
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 14,
+				"x": 73
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 14,
+				"x": 95
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 15,
+        "x": 4
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 15,
+				"x": 9
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 15,
+        "x": 16
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 15,
+				"x": 24
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 15,
+				"x": 40
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 15,
+				"x": 57
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 15,
+				"x": 72
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 15,
+				"x": 94
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 16,
+				"x": 0
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 16,
+        "x": 4
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 16,
+				"x": 8
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 16,
+        "x": 16
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 16,
+				"x": 23
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 16,
+				"x": 39
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 16,
+				"x": 56
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 16,
+				"x": 71
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 16,
+				"x": 93
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 16,
+				"x": 99
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 17,
+        "x": 4
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 7
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 17,
+        "x": 16
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 17,
+				"x": 22
+			},
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 17,
+        "x": 26
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 17,
+        "x": 27
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 28
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 17,
+        "x": 29
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 17,
+        "x": 30
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 17,
+        "x": 31
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 32
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 33
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 34
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 17,
+				"x": 35
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 38
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 17,
+        "x": 43
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 44
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 17,
+        "x": 45
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 17,
+        "x": 46
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 17,
+        "x": 47
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 48
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 49
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 50
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 17,
+        "x": 51
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 17,
+				"x": 55
+			},
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 17,
+        "x": 57
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 17,
+        "x": 58
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 59
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 17,
+        "x": 60
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 17,
+        "x": 61
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 17,
+        "x": 62
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 63
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 64
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 17,
+        "x": 65
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 17,
+        "x": 66
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 17,
+				"x": 70
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 77
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 17,
+				"x": 78
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 79
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 17,
+				"x": 80
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 17,
+				"x": 81
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 82
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 17,
+				"x": 83
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 84
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 17,
+				"x": 85
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 17,
+				"x": 86
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 87
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 17,
+				"x": 88
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 17,
+				"x": 92
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 18,
+        "x": 4
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 18,
+				"x": 6
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 18,
+        "x": 16
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 18,
+				"x": 21
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 18,
+				"x": 37
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 18,
+				"x": 54
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 18,
+				"x": 56
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 18,
+				"x": 69
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 18,
+				"x": 91
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 19,
+        "x": 4
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 19,
+				"x": 5
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 19,
+        "x": 16
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 19,
+				"x": 20
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 19,
+				"x": 36
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 19,
+				"x": 53
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 19,
+				"x": 68
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 19,
+				"x": 91
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 20,
+				"x": 4
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 20,
+				"x": 19
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 20,
+				"x": 35
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 20,
+				"x": 52
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 20,
+				"x": 67
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 20,
+				"x": 90
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 21,
+				"x": 3
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 21,
+				"x": 18
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 21,
+				"x": 34
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 21,
+				"x": 51
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 21,
+				"x": 66
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 21,
+				"x": 89
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 22,
+				"x": 2
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 22,
+				"x": 17
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 21
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 22,
+				"x": 22
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 23
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 22,
+				"x": 24
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 22,
+				"x": 25
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 26
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 22,
+				"x": 27
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 22,
+				"x": 28
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 22,
+				"x": 29
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 30
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 33
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 38
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 22,
+				"x": 39
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 40
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 22,
+				"x": 41
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 22,
+				"x": 42
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 43
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 22,
+				"x": 44
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 22,
+				"x": 45
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 22,
+				"x": 46
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 47
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 22,
+				"x": 50
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 22,
+				"x": 65
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 71
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 22,
+				"x": 72
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 73
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 22,
+				"x": 74
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 22,
+				"x": 75
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 76
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 22,
+				"x": 77
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 22,
+				"x": 78
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 22,
+				"x": 79
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 22,
+				"x": 80
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 22,
+				"x": 88
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 1
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 23,
+				"x": 16
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 23,
+				"x": 21
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 23,
+				"x": 22
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 23
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 23,
+				"x": 24
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 25
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 23,
+				"x": 26
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 27
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 28
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 29
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 23,
+				"x": 32
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 23,
+				"x": 38
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 23,
+				"x": 39
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 40
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 23,
+				"x": 41
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 42
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 23,
+				"x": 43
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 44
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 45
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 46
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 49
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 64
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 23,
+				"x": 71
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 23,
+				"x": 72
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 73
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 23,
+				"x": 74
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 75
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 23,
+				"x": 76
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 77
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 78
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 23,
+				"x": 79
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 23,
+				"x": 87
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 24,
+				"x": 0
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 24,
+				"x": 15
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 24,
+				"x": 32
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 24,
+				"x": 48
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 24,
+				"x": 63
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 24,
+				"x": 86
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 24,
+				"x": 99
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 25,
+				"x": 14
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 25,
+				"x": 31
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 25,
+				"x": 47
+			},
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 26,
+        "x": 2
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 3
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 26,
+        "x": 4
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 5
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 6
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 7
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 8
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 9
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 26,
+        "x": 12
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 13
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 14
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 15
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 16
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 17
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 18
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 19
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 20
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 23
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 24
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 25
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 26
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 27
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 28
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 26,
+				"x": 30
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 33
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 34
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 35
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 36
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 37
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 38
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 43
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 44
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 45
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 46
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 47
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 48
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 53
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 54
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 55
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 56
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 57
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 58
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 62
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 63
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 64
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 65
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 66
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 67
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 26,
+        "x": 73
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 74
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 75
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 76
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 77
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 78
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 26,
+        "x": 79
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 26,
+        "x": 80
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 26,
+        "x": 81
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 26,
+        "x": 82
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 26,
+        "x": 83
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 26,
+        "x": 84
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 27,
+        "x": 2
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 27,
+        "x": 12
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 27,
+        "x": 20
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 27,
+        "x": 23
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 27,
+        "x": 29
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 27,
+        "x": 33
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 27,
+        "x": 43
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 27,
+				"x": 45
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 27,
+        "x": 53
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 27,
+        "x": 62
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 27,
+        "x": 80
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 27,
+				"x": 97
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 28,
+        "x": 2
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 28,
+				"x": 11
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 28,
+        "x": 12
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 28,
+        "x": 20
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 28,
+        "x": 23
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 28,
+				"x": 28
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 28,
+        "x": 30
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 28,
+        "x": 33
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 28,
+        "x": 43
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 28,
+				"x": 44
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 28,
+        "x": 53
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 28,
+        "x": 62
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 28,
+        "x": 80
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 28,
+				"x": 96
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 29,
+        "x": 2
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 29,
+				"x": 10
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 29,
+        "x": 12
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 29,
+        "x": 20
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 29,
+        "x": 23
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 29,
+				"x": 27
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 29,
+        "x": 30
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 29,
+        "x": 33
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 29,
+        "x": 43
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 29,
+        "x": 53
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 29,
+        "x": 62
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 29,
+        "x": 80
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 29,
+				"x": 95
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 30,
+        "x": 2
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 30,
+				"x": 9
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 30,
+        "x": 12
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 30,
+        "x": 20
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 30,
+        "x": 23
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 30,
+				"x": 26
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 30,
+        "x": 30
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 30,
+        "x": 33
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 30,
+				"x": 42
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 30,
+        "x": 43
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 30,
+        "x": 53
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 30,
+        "x": 62
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 30,
+        "x": 80
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 30,
+				"x": 94
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 31,
+        "x": 2
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 31,
+				"x": 8
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 31,
+        "x": 12
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 31,
+        "x": 20
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 31,
+        "x": 23
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 31,
+				"x": 25
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 31,
+        "x": 30
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 31,
+        "x": 33
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 31,
+				"x": 41
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 31,
+        "x": 43
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 31,
+        "x": 53
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 31,
+        "x": 62
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 31,
+        "x": 80
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 31,
+				"x": 93
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 32,
+        "x": 2
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 32,
+				"x": 7
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 32,
+        "x": 12
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 32,
+        "x": 20
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 32,
+        "x": 23
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 32,
+				"x": 24
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 32,
+        "x": 30
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 32,
+        "x": 33
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 32,
+				"x": 40
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 32,
+        "x": 43
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 32,
+        "x": 53
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 32,
+				"x": 56
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 32,
+        "x": 62
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 32,
+        "x": 80
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 32,
+				"x": 92
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 32,
+				"x": 99
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 33,
+        "x": 2
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 33,
+				"x": 6
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 33,
+        "x": 12
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 33,
+        "x": 20
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 33,
+        "x": 23
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 33,
+        "x": 30
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 33,
+        "x": 33
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 33,
+				"x": 39
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 33,
+        "x": 43
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 33,
+        "x": 53
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 33,
+        "x": 62
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 33,
+				"x": 67
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 33,
+        "x": 80
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 33,
+				"x": 91
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 34,
+        "x": 2
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 34,
+				"x": 5
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 34,
+        "x": 12
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 34,
+        "x": 20
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 34,
+				"x": 22
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 34,
+        "x": 23
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 34,
+        "x": 30
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 34,
+        "x": 33
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 34,
+				"x": 38
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 34,
+        "x": 43
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 34,
+        "x": 53
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 34,
+        "x": 62
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 34,
+				"x": 77
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 34,
+        "x": 80
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 34,
+				"x": 90
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 35,
+        "x": 2
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 35,
+				"x": 4
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 35,
+        "x": 12
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 35,
+        "x": 20
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 35,
+				"x": 21
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 35,
+        "x": 23
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 35,
+        "x": 30
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 35,
+        "x": 33
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 35,
+				"x": 37
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 35,
+        "x": 43
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 35,
+        "x": 53
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 35,
+        "x": 62
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 35,
+        "x": 80
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 35,
+				"x": 89
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 35,
+				"x": 96
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 36,
+        "x": 2
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 36,
+				"x": 3
+			},
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 36,
+        "x": 12
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 20
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 23
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 36,
+        "x": 30
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 33
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 34
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 36,
+        "x": 35
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 36,
+        "x": 36
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 37
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 36,
+        "x": 38
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 36,
+        "x": 39
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 40
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 43
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 44
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 36,
+        "x": 45
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 36,
+        "x": 46
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 47
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 36,
+        "x": 48
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 36,
+        "x": 49
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 50
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 36,
+				"x": 52
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 53
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 54
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 36,
+        "x": 55
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 36,
+        "x": 56
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 57
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 36,
+        "x": 58
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 36,
+        "x": 59
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 60
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 62
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 63
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 36,
+        "x": 64
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 36,
+        "x": 65
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 36,
+        "x": 66
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 36,
+        "x": 67
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 36,
+        "x": 68
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 69
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 36,
+        "x": 70
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 36,
+        "x": 71
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 36,
+        "x": 80
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 36,
+				"x": 88
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 36,
+				"x": 95
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 37,
+				"x": 2
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 37,
+        "x": 12
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 37,
+				"x": 19
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 37,
+        "x": 20
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 37,
+        "x": 23
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 37,
+        "x": 33
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 37,
+				"x": 35
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 37,
+        "x": 43
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 37,
+				"x": 51
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 37,
+        "x": 53
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 37,
+        "x": 62
+      },
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 37,
+				"x": 74
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 37,
+        "x": 80
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 37,
+				"x": 87
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 37,
+				"x": 94
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 38,
+				"x": 1
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 38,
+        "x": 12
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 38,
+				"x": 18
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 38,
+				"x": 34
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 38,
+				"x": 50
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 38,
+				"x": 62
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 38,
+				"x": 73
+			},
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 38,
+        "x": 80
+      },
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 38,
+				"x": 82
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 38,
+				"x": 86
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 38,
+				"x": 93
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 38,
+				"x": 99
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 39,
+				"x": 0
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 5
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 6
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 7
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 8
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 9
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 10
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 11
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 12
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 39,
+        "x": 13
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 39,
+				"x": 17
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 22
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 23
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 24
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 25
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 26
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 27
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 28
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 29
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 39,
+        "x": 30
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 39,
+				"x": 33
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 38
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 39
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 40
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 41
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 42
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 43
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 44
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 45
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 39,
+        "x": 46
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 39,
+				"x": 49
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 52
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 53
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 54
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 55
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 56
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 57
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 39,
+        "x": 58
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 39,
+        "x": 59
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 39,
+        "x": 60
+      },
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 39,
+				"x": 61
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 39,
+				"x": 72
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 39,
+				"x": 81
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 39,
+				"x": 85
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 39,
+				"x": 92
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 40,
+				"x": 16
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 40,
+				"x": 32
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 40,
+				"x": 48
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 40,
+				"x": 60
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 40,
+				"x": 71
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 40,
+				"x": 80
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 40,
+				"x": 84
+			},
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 40,
+        "x": 89
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 40,
+        "x": 90
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 40,
+        "x": 91
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 40,
+        "x": 92
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 40,
+        "x": 93
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 40,
+        "x": 94
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 40,
+        "x": 95
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 40,
+        "x": 96
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 40,
+        "x": 97
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 40,
+        "x": 98
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 40,
+        "x": 99
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 41,
+				"x": 15
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 41,
+				"x": 31
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 41,
+				"x": 47
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 41,
+				"x": 59
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 41,
+				"x": 70
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 41,
+				"x": 79
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 42,
+				"x": 14
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 42,
+				"x": 30
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 42,
+				"x": 46
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 42,
+				"x": 58
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 42,
+				"x": 69
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 42,
+				"x": 78
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 43,
+				"x": 13
+			},
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 43,
+				"x": 29
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 43,
+				"x": 45
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 44,
+				"x": 12
+			},
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 44,
+				"x": 28
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 44,
+				"x": 44
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 45,
+				"x": 11
+			},
+			{
+				"piece": "H",
+				"side": "AZUL",
+				"y": 45,
+				"x": 27
+			},
+			{
+				"piece": "D",
+				"side": "AZUL",
+				"y": 45,
+				"x": 43
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 2
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 3
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 4
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 5
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 6
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 7
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 8
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 46,
+				"x": 10
+			},
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 12
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 13
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 14
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 15
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 16
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 17
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 18
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 19
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 20
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 23
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 24
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 25
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 26
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 27
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 28
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 29
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 33
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 34
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 35
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 36
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 37
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 38
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 39
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 40
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 41
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 46,
+				"x": 42
+			},
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 43
+      },
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 46,
+				"x": 44
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 46,
+				"x": 45
+			},
+			{
+				"piece": "C",
+				"side": "AZUL",
+				"y": 46,
+				"x": 46
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 46,
+				"x": 47
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 46,
+				"x": 48
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 46,
+				"x": 49
+			},
+			{
+				"piece": "G",
+				"side": "AZUL",
+				"y": 46,
+				"x": 50
+			},
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 53
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 54
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 55
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 56
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 57
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 58
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 59
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 62
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 63
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 64
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 65
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 66
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 67
+      },
+			{
+				"piece": "S",
+				"side": "AZUL",
+				"y": 46,
+				"x": 68
+			},
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 69
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 70
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 71
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 73
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 74
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 75
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 76
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 77
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 78
+      },
+      {
+        "piece": "C",
+        "side": "ROJO",
+        "y": 46,
+        "x": 79
+      },
+      {
+        "piece": "H",
+        "side": "ROJO",
+        "y": 46,
+        "x": 80
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 81
+      },
+      {
+        "piece": "D",
+        "side": "ROJO",
+        "y": 46,
+        "x": 82
+      },
+      {
+        "piece": "I",
+        "side": "ROJO",
+        "y": 46,
+        "x": 83
+      },
+      {
+        "piece": "G",
+        "side": "ROJO",
+        "y": 46,
+        "x": 84
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 85
+      },
+      {
+        "piece": "S",
+        "side": "ROJO",
+        "y": 46,
+        "x": 86
+      },
+			{
+				"piece": "I",
+				"side": "AZUL",
+				"y": 46,
+				"x": 99
+			}
+		]
+	}
+}
