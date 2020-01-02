@@ -12,7 +12,6 @@ HashMap<Character, Integer> parsedLetters;
 void setup() {
   parsedLetters=new HashMap<Character, Integer>();
   addValuesToMap();
-  printArray(parsedLetters);
   println(solution());
   exit();
 }
@@ -47,11 +46,8 @@ String solution() {
       parsedDigitList.push(valueToAdd);
     }
   }
-  println(parsedDigitList);
   IntList reducedList=reduceList(parsedDigitList);
-  println(reducedList);
   IntList groupedList=groupList(reducedList);
-  println(groupedList);
   String finalValue=concatenateNumbersInList(groupedList);
   return finalValue;
 }
